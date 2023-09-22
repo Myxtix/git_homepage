@@ -5,6 +5,7 @@ body{
     padding: 0;
     margin: 0;
     font-family: 'Roboto', sans-serif;
+    background: #000;
 }
 
 a{
@@ -16,11 +17,11 @@ nav{
     justify-content: space-between;
     align-items: center;
     padding: 15px;
-    background: green;
 }
 
 nav a{
-    color: #3d3939;
+    /* color: #3d3939; */
+    color: #fff;
     font-size: 14px;
 }
 
@@ -323,7 +324,7 @@ footer{
     width: 100%;
     max-width: 100%;
     height: 97px;
-    background: #F2F2F2;
+    /* background: #F2F2F2; */
 }
 
 .mobile-footer{
